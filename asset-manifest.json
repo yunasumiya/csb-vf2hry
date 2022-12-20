@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://yunasumiya.github.io/csb-vf2hry/static/css/main.524a2909.chunk.css",
-    "main.js": "https://yunasumiya.github.io/csb-vf2hry/static/js/main.b9a849b7.chunk.js",
-    "main.js.map": "https://yunasumiya.github.io/csb-vf2hry/static/js/main.b9a849b7.chunk.js.map",
+    "main.js": "https://yunasumiya.github.io/csb-vf2hry/static/js/main.568c0a33.chunk.js",
+    "main.js.map": "https://yunasumiya.github.io/csb-vf2hry/static/js/main.568c0a33.chunk.js.map",
     "runtime-main.js": "https://yunasumiya.github.io/csb-vf2hry/static/js/runtime-main.df34cdfb.js",
     "runtime-main.js.map": "https://yunasumiya.github.io/csb-vf2hry/static/js/runtime-main.df34cdfb.js.map",
-    "static/js/2.ba1cd715.chunk.js": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.ba1cd715.chunk.js",
-    "static/js/2.ba1cd715.chunk.js.map": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.ba1cd715.chunk.js.map",
+    "static/js/2.9291737b.chunk.js": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.9291737b.chunk.js",
+    "static/js/2.9291737b.chunk.js.map": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.9291737b.chunk.js.map",
     "index.html": "https://yunasumiya.github.io/csb-vf2hry/index.html",
     "static/css/main.524a2909.chunk.css.map": "https://yunasumiya.github.io/csb-vf2hry/static/css/main.524a2909.chunk.css.map",
-    "static/js/2.ba1cd715.chunk.js.LICENSE.txt": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.ba1cd715.chunk.js.LICENSE.txt"
+    "static/js/2.9291737b.chunk.js.LICENSE.txt": "https://yunasumiya.github.io/csb-vf2hry/static/js/2.9291737b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df34cdfb.js",
-    "static/js/2.ba1cd715.chunk.js",
+    "static/js/2.9291737b.chunk.js",
     "static/css/main.524a2909.chunk.css",
-    "static/js/main.b9a849b7.chunk.js"
+    "static/js/main.568c0a33.chunk.js"
   ]
 }
